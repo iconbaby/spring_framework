@@ -9,7 +9,7 @@ public class PerformanceMonitor {
         if (mp == null) {
             mp = new MethodPerformance(method);
             performanceRecord.set(mp);
-        }else{
+        } else {
             mp.reset(method);
         }
     }
