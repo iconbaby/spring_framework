@@ -110,8 +110,8 @@
       <file leaf-file-name="BeforeAdviceTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/slkk/advice/BeforeAdviceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -443,12 +443,12 @@
       <option name="presentableId" value="Default" />
       <updated>1515133481185</updated>
       <workItem from="1515133497565" duration="4149000" />
-      <workItem from="1515375238194" duration="5745000" />
+      <workItem from="1515375238194" duration="6024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9894000" />
+    <option name="totallyTimeSpent" value="10173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -528,8 +528,8 @@
         <state relative-caret-position="204">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="false" />
+            <element signature="e#226#227#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -569,8 +569,8 @@
         <state relative-caret-position="204">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="false" />
+            <element signature="e#226#227#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -664,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/slkk/advice/BeforeAdviceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
